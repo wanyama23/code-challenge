@@ -15,7 +15,7 @@ else if (marks >=49 && marks<=59) {
     
 }
 
-else if (marks >49 && marks<=40) {
+else if (marks >40 && marks<=49) {
     console.log("D");
     
 }
