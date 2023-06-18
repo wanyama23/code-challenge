@@ -1,6 +1,6 @@
-checkSpeed(70);
+detectSpeed(70);
 
-function checkSpeed(speed) {
+function detectSpeed(speed) {
   const speedLimit = 70;
   const kmPerPoint = 5;
 
